@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'kmu-likelion-notion-page',
-  domain: 'https://kmu-likelion-notion-page.vercel.app',
+  domain: 'https://kmu-likelion.vercel.app',
   author: 'ShinKeon Kim',
 
   // open graph metadata (optional)
